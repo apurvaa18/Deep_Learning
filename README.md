@@ -5,3 +5,5 @@ Multiclass Classification
 Artificial Neural Network Model
 
 LSTM Model 
+
+Autoencoder

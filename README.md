@@ -9,3 +9,5 @@ LSTM Model
 Autoencoder
 
 Convolutional Neural Network
+
+Fruit Classification

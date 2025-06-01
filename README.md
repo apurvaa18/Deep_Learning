@@ -1,5 +1,7 @@
 Deep Learning Concepts:-
 
+Feedforward Neural Network
+
 Multiclass Classification 
 
 Artificial Neural Network Model

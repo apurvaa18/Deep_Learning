@@ -1,6 +1,6 @@
 Deep Learning Concepts:-
 
-Perceptron Learning Algorithm
+Perceptron Learning Algorithm - Binary Classifier
 
 Feedforward Neural Network
 

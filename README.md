@@ -1,5 +1,7 @@
 Deep Learning Concepts:-
 
+Perceptron Learning Algorithm
+
 Feedforward Neural Network
 
 Multiclass Classification 
